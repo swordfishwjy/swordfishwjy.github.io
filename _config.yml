@@ -5,8 +5,8 @@ baseurl: https://swordfishwjy.github.io
 url:
 date_format: "ordinal"
 title: 煎鱼的小站
-subtitle: "Nerd and Stupid Ph.d.(建设中.....引用他人模版)"
-description: "马壮的个人博客"
+subtitle: "A Nerd and Stupid Ph.d.(建设中....."
+description: "王剑宇的个人网站"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 timezone: America/Chicago
 encoding: "utf-8"
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Jianyu Wang
-organization:
+# organization:
 # organization_url: http://www.zkh360.com
 github_username: swordfishwjy
 location: US
