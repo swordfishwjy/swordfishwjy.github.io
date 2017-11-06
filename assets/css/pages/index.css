@@ -5,7 +5,8 @@
 }
 
 .home .banner .collection-head {
-    color: #fff;
+    /*color: #fff;*/
+    background-image: url("swordfishwjy.jpeg");
     background: 0 0;
     box-shadow: none;
     -webkit-box-shadow: none
