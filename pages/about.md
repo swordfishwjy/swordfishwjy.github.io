@@ -1,26 +1,24 @@
 ---
 layout: page
-title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+title: 逗逼在此
+description: 何以解忧，唯有学习
+keywords: Jianyu Wang, 王剑宇
 comments: true
-menu: 关于
+menu: About Me
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+世界上不缺我一个程序员，
+但，
+缺一个做饭好吃的我
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
-
-## 联系
+## Find me anyway
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
 
-## Skill Keywords
+## Skills
 
 {% for category in site.data.skills %}
 ### {{ category.name }}
