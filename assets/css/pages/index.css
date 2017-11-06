@@ -1,12 +1,12 @@
 .home .banner,
 .home .site-header {
-    background: #4183c4;
-    color: #fff
+    /*background: #4183c4;
+    color: #fff*/
+    background-image: url("swordfishwjy.jpeg")
 }
 
 .home .banner .collection-head {
     /*color: #fff;*/
-    background-image: url("swordfishwjy.jpeg");
     background: 0 0;
     box-shadow: none;
     -webkit-box-shadow: none
