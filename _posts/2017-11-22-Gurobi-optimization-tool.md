@@ -6,7 +6,9 @@ description: 总结一下近来对Gurobi工具的学习
 keywords: gurobi, optimizer, LP, QP, QCP,MILP
 ---
 
-**Gurobi** is a mathematical optimizer which is designed to be the fastest and most powerful solver for:
+**Gurobi** is a mathematical optimizer which is designed to be the fastest and most powerful solver.
+
+For:
 * LP(Linear Programming): [Wiki link](https://en.wikipedia.org/wiki/Linear_programming)
 * QP(Quadratic Programming): [Wiki link](https://en.wikipedia.org/wiki/Quadratic_programming)
 * QCQP(Quadratic Constrained Quadratic Program): [Wiki link](https://en.wikipedia.org/wiki/Quadratically_constrained_quadratic_program)
