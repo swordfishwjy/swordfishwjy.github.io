@@ -1,4 +1,6 @@
-# 码志
+# 记录自学的过程
+
+## 愿小溪汇成江河
 
 博客网址（blog website）：<https://swordfishwjy.github.io/>，建设和学习中......
 
