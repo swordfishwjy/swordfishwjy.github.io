@@ -5,7 +5,7 @@ baseurl: https://swordfishwjy.github.io
 url:
 date_format: "ordinal"
 title: 煎鱼的小站
-subtitle: "A Nerd and Stupid Ph.d.(建设中.....)"
+subtitle: "A nerd and stupid student"
 description: "王剑宇的个人网站"
 keywords: 认真记录, wjy blog
 timezone: America/Chicago
@@ -19,7 +19,7 @@ author: Jianyu Wang
 # organization:
 # organization_url: http://www.zkh360.com
 github_username: swordfishwjy
-location: US
+location: US, countryside
 email: swordfishwjy@gmail.com
 
 # ---------------- #
