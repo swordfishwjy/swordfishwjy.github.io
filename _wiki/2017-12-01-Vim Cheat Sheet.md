@@ -10,9 +10,13 @@ keywords: vim
 
 ## 全局
 :help keyword - 打开关键字帮助
+
 :o file - 打开文件
+
 :saveas file - 另存为
+
 :close - 关闭当前窗口
+
 K - open man page for word under the cursor
 
 ## 光标
