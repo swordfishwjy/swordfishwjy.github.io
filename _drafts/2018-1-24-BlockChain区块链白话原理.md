@@ -1,9 +1,9 @@
 ---
 layout: post
-title: template page
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+title: BlockChain 区块链原理 简易版
+categories: blockchian
+description: 学习总结
+keywords: blockchain
 ---
 
 **Blockchain** 的原理
