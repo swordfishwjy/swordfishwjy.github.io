@@ -38,5 +38,6 @@ In computational complexity theory, it is a combinatorial NP-hard problem.
 
 
 #### Reference:
-[1](https://en.wikipedia.org/wiki/Bin_packing_problem)
-[2](https://www.youtube.com/watch?v=kiMFyTWqLhc)
+[Wiki](https://en.wikipedia.org/wiki/Bin_packing_problem)
+
+[Video](https://www.youtube.com/watch?v=kiMFyTWqLhc)
