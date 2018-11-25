@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef71d032-75b5-4956-8b5c-96f9b5233d9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-1-24-BlockChain区块链白话原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-1-24-BlockChain区块链白话原理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-24-Research_note.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-24-Research_note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-5-21-Bin packing algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-5-21-Bin packing algorithm.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +52,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-22-Gurobi-optimization-tool.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-line="6" selection-end-column="3" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -74,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-24-Research_note.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -90,20 +88,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-23-Windows10+Ubuntu_UEFI_dual_boot.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-5-21-Bin packing algorithm.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="3" selection-start-column="3" selection-end-column="3" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -122,8 +120,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-23-Windows10+Ubuntu_UEFI_dual_boot.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-24-Research-note.md" />
         <option value="$PROJECT_DIR$/_posts/2018-1-24-BlockChain区块链白话原理.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-5-21-Bin packing algorithm.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-24-Research_note.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-5-21-Bin packing algorithm.md" />
       </list>
     </option>
   </component>
@@ -219,7 +217,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49960285" weight="0.32930514" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32930514" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.32930514" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -309,18 +307,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-22-Gurobi-optimization-tool.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="6" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-23-Windows10+Ubuntu_UEFI_dual_boot.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
@@ -336,17 +324,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-5-21-Bin packing algorithm.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-23-Windows10+Ubuntu_UEFI_dual_boot.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-24-Research_note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-5-21-Bin packing algorithm.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">

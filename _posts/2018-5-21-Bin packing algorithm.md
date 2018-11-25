@@ -6,8 +6,6 @@ description: 学习总结
 keywords: bin packing, optimization
 ---
 
-**Bin packing algorithm**
-
 ### Bin packing problem
 How to pack different sizes of objects into bins?
 1. each bin has constant volume
