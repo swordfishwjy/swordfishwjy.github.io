@@ -8,9 +8,7 @@ menu: About Me
 permalink: /about/
 ---
 
-世界上不缺我一个程序员，
-但，
-缺一个做饭好吃的我
+今天比昨天更博学了么？
 
 ## Find me anyway
 
