@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title: Daily Research Note
 categories: Research

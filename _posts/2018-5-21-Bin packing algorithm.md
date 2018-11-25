@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title: Bin Packing Algorithm 笔记
 categories: algorithms
