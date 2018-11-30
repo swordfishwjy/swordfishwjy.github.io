@@ -7,7 +7,7 @@ keywords: blog
 ---
 
 
-#### My first MeetUp with St. Louis Machine Learning & Data Science Group
+#### :eyes: My first MeetUp with St. Louis Machine Learning & Data Science Group
 Sponsors:
 
 
@@ -25,7 +25,7 @@ Taught by Jeremy Howard
 3. an open source project: LIME - local interpretable model-agnostic explanations. 
     - aim at explaining the predictions of any classifiers in the [paper](https://arxiv.org/pdf/1602.04938v1.pdf)
 
-#### MIT Technology Review Reading
+#### :eyes: MIT Technology Review Reading
 1. There is a trend that asian countries adopt or plan to adopt more industrial-robots
 
 2. Companies are trying to replace WiFi with 5G cellular networks for better latency, wider ranges, agile mobility, and flexible programmability. Harbor Research, predict that the IoT market will grow approximately 30% a year through 2028, when it will generate $356 billion.
@@ -42,6 +42,6 @@ For example, deep learning algorihtms help analyze teh density and shape of road
 6. 3D printing can produce the wedding stuff: headband, necklace, and even bouquet. The technology
 is not new but the technical and cost-friendly idea is innovative.
 
-#### 自学总结 self-study summary
+#### :eyes: 自学总结 self-study summary
 1.  morfan python scrapying 基础爬虫教程完成
 
