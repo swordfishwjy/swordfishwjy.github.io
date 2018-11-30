@@ -35,3 +35,13 @@ Taught by Jeremy Howard
 
 4. In the north of America, people say "you guys"; in the south, say "y'all". This kind of
 linguistic difference may be explained by self-organization in physics.
+
+5. There are four billion people who lack an address. Machine learn could help that.
+For example, deep learning algorihtms help analyze teh density and shape of road in a community.
+
+6. 3D printing can produce the wedding stuff: headband, necklace, and even bouquet. The technology
+is not new but the technical and cost-friendly idea is innovative.
+
+#### 自学总结 self-study summary
+1.  morfan python scrapying 基础爬虫教程完成
+
