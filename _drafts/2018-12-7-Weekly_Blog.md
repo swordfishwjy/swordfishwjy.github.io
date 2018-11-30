@@ -1,15 +1,18 @@
 ---
 layout: post
-title: Weekly Blog 每周播报
+title: Weekly Blog 每周播报-2018-12-07
 categories: Weekly Blog
 description: Readings, Notes, Activity, Ideas
 keywords: blog
 ---
 
+## :eyes: 学习资源
+___
+1. [Crash Cousrse 公开课,天文地理](https://crashcourse.club/)
 
-#### My first MeetUp with St. Louis Machine Learning & Data Science Group
-Sponsors:
 
+## :eyes: My first MeetUp with St. Louis Machine Learning & Data Science Group
+___
 
 
 干货如下：
@@ -25,7 +28,9 @@ Taught by Jeremy Howard
 3. an open source project: LIME - local interpretable model-agnostic explanations. 
     - aim at explaining the predictions of any classifiers in the [paper](https://arxiv.org/pdf/1602.04938v1.pdf)
 
-#### MIT Technology Review Reading
+## :eyes: MIT Technology Review Reading
+___
+
 1. There is a trend that asian countries adopt or plan to adopt more industrial-robots
 
 2. Companies are trying to replace WiFi with 5G cellular networks for better latency, wider ranges, agile mobility, and flexible programmability. Harbor Research, predict that the IoT market will grow approximately 30% a year through 2028, when it will generate $356 billion.
@@ -42,6 +47,7 @@ For example, deep learning algorihtms help analyze teh density and shape of road
 6. 3D printing can produce the wedding stuff: headband, necklace, and even bouquet. The technology
 is not new but the technical and cost-friendly idea is innovative.
 
-#### 自学总结 self-study summary
+## :eyes: 自学总结 self-study summary
+___
 1.  morfan python scrapying 基础爬虫教程完成
 

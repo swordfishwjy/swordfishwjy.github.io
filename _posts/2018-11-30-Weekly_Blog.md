@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Blog 每周播报
+title: Weekly Blog 每周播报-2018-11-30
 categories: Weekly Blog
 description: Readings, Notes, Activity, Ideas
 keywords: blog
