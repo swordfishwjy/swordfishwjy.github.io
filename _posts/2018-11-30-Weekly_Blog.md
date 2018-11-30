@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Blog 每周播报
-categories: Weekly Blog
+categories: Weekly_Blog
 description: Readings, Notes, Activity, Ideas
 keywords: blog
 ---
