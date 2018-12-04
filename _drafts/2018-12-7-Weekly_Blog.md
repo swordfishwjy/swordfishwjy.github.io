@@ -11,13 +11,10 @@ ___
 1. [Crash Cousrse 公开课,天文地理](https://crashcourse.club/)
 
 
-## :eyes: My first MeetUp with St. Louis Machine Learning & Data Science Group
-___
 
 
 
-
-## :eyes: MIT Technology Review Reading
+## :eyes: [MIT Technology Review](https://www.technologyreview.com/) Reading Notes
 ___
 
 1. GAN (generative adversarial network) can forge faces, arts, or any images,
@@ -27,7 +24,22 @@ dangerous way, such as criminal, overlay celebrity faces.
 2. Climate changes could affect the cost of company because the overheated 
 empoyees may be too hot to work.
 
+3. Researchers from Stanford university used machine learning model
+to identify the signals of depression, which learned from facial expression,
+voice tone, and spoken words.
+
+4. 
+
 ## :eyes: 自学总结 self-study summary
 ___
 1.  
 
+
+## :eyes: 小句子 Inspiration
+___
+
+1. [from movie: The Matrix 黑客帝国](https://en.wikiquote.org/wiki/The_Matrix_Reloaded). 那么我为什么在做现在手上的事？
+
+Because you didn't come here to make the choice. You've already made it. You're here to try to understand why you made it.
+
+你来到这里不是为了做选择，你早已选择了。你来到这里的目的，是为了了解你为什么这样选择
