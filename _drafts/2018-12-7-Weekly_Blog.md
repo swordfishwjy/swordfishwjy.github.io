@@ -28,11 +28,17 @@ empoyees may be too hot to work.
 to identify the signals of depression, which learned from facial expression,
 voice tone, and spoken words.
 
-4. 
+4. Quantum computers are on their way. Their computing power 
+can be used for cryptography. Decryption of old encrypted data is a big threat against
+ security and privacy. Encryption standards needs to be developed in the next several
+ decades for quantum-proof cryptographic algorithms to be widely adopted.
 
 ## :eyes: 自学总结 self-study summary
 ___
-1.  
+1.  Build GAN-based classifier using Keras
+
+2.  Find that precision, recall, f1, roc, and auc API from sklearn maybe the most convenient way,
+compared to Keras's metrics callback.
 
 
 ## :eyes: 小句子 Inspiration
