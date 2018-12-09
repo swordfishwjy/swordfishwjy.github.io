@@ -17,21 +17,7 @@ ___
 ## :eyes: [MIT Technology Review](https://www.technologyreview.com/) Reading Notes
 ___
 
-1. GAN (generative adversarial network) can forge faces, arts, or any images,
-which means they have great potential to be used in ethically objectionalble and
-dangerous way, such as criminal, overlay celebrity faces.
-
-2. Climate changes could affect the cost of company because the overheated 
-empoyees may be too hot to work.
-
-3. Researchers from Stanford university used machine learning model
-to identify the signals of depression, which learned from facial expression,
-voice tone, and spoken words.
-
-4. Quantum computers are on their way. Their computing power 
-can be used for cryptography. Decryption of old encrypted data is a big threat against
- security and privacy. Encryption standards needs to be developed in the next several
- decades for quantum-proof cryptographic algorithms to be widely adopted.
+1. Worldwide carbon dioxide emissions are on track to rise nearly 3% in 2018.
 
 ## :eyes: 自学总结 self-study summary
 ___
