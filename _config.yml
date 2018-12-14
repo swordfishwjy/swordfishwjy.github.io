@@ -28,23 +28,23 @@ email: swordfishwjy@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: 分类 Categories
 
   -
     href: /wiki/
-    label: 维基
+    label: 维基 Wiki
 
   -
     href: /links/
-    label: 链接
+    label: 链接 Links
 
   -
     href: /about/
-    label: 关于我
+    label: 关于我 About Me
 
 # ---------------- #
 #       RSS        #
